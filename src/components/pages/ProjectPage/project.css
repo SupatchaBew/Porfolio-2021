@@ -1,0 +1,13 @@
+header {
+    text-align: center;
+}
+
+section {
+    text-align: start;
+    display: flex;
+    margin: 3rem;
+}
+
+section * {
+    flex: 1;
+}
