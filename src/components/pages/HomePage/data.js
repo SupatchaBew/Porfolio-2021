@@ -7,7 +7,7 @@ export const homeObjOne = {
     description: 'I am a firmware developer based in Bangkok who have passion for web design and development.',
     buttonLable: 'learn more',
     imgStart: '',
-    img: '/images/supatcha-image.jpg',
+    img: './images/supatcha-image.jpg',
     alt: 'my-portait'
 }
 
@@ -18,7 +18,7 @@ export const socialLinkObj = {
 }
 
 export const projectFitnessApp = {
-    imgSrc: "/images/mika-baumeister-eXlEmz0ewo8-unsplash.jpg", 
+    imgSrc: "./images/mika-baumeister-eXlEmz0ewo8-unsplash.jpg", 
     imgAlt: "", 
     title: "Fitness App", 
     category: "Case study", 
@@ -26,7 +26,7 @@ export const projectFitnessApp = {
 }
 
 export const projectClouter = {
-    imgSrc: "/images/clouter-logo.png", 
+    imgSrc: "./images/clouter-logo.png", 
     imgAlt: "", 
     title: "Clouter's site", 
     category: "Development", 
